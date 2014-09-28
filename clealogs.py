@@ -1,5 +1,6 @@
 import sys
 import os
+import url
 logdir = '/tmp'     #test dir
 #logdir = '/home/data/tomcat-7.0.42/logs'
 nowdir = os.chdir(logdir)
